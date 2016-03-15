@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">acadproj</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="nameList">
+        <item>Pranav</item>
+        <item>Shree</item>
+        <item>Akanksha</item>
+        <item>Priyanka</item>
+        <item>Gaurav</item>
+        <item>Nikhil</item>
+        <item>Asad</item>
+        <item>Rohan</item>
+        <item>Yubaraj</item>
+    </string-array>
+    <string-array name="phNumbers">
+        <item>34534563</item>
+        <item>34534536</item>
+        <item>1234567</item>
+        <item>1232124</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+
+    </string-array>
+
+</resources>
